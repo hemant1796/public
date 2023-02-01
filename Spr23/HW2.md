@@ -39,17 +39,82 @@ When you are done cleaning the file:
 
 ### Part 2. Analyze Cleaned Data
 
-Use the cleaned data to answer the following questions in your report (and explain how you arrived at the answers):
-1. How many types (kinds) of pets are there?
-1. How many dogs? 
-1. How many breeds of dogs?
-1. What's the most popular dog breed?
-1. What's the age range of the dogs?
-1. What's the age range of the guinea pigs?
-1. What is the oldest pet?
-1. Which are more popular, betta fish or goldfish? How many of each?
-1. What's the most popular everyday name for a cat?
-1. What's the most popular full name for a dog?
+Use the cleaned data to answer the following questions in your report (and explain how you arrived at the answers)
+
+Question : How many types (kinds) of pets are there?
+
+Answer : There are Total 34 Kind of Pets
+
+![1](https://user-images.githubusercontent.com/31125760/215925045-3ab8083e-7128-4f7a-a394-1d2e4cc4a664.png)
+
+
+Question :  How many dogs?
+
+Answer : There are 1128 dogs.
+
+![2](https://user-images.githubusercontent.com/31125760/215925158-802b4808-0f16-41f7-8a94-a581070c583d.PNG)
+
+
+Question : How many breeds of dogs?
+
+Answer : There are 320 breeds of dogs
+
+![3](https://user-images.githubusercontent.com/31125760/215927030-f182c0d0-a425-492b-94c1-77e95d901d00.PNG)
+
+
+Question : What's the most popular dog breed?
+
+Answer : Labrador is most popular breed with 174 as count
+
+![4](https://user-images.githubusercontent.com/31125760/215927231-db7b8a0a-f09c-43d4-b889-c4c81a093ec2.PNG)
+
+
+Question : What's the age range of the dogs?
+
+Answer : Age range for dogs is 0-21
+
+![5](https://user-images.githubusercontent.com/31125760/215927610-5b1c3174-af51-4a77-bed6-8851df73b1b1.PNG)
+
+
+Question : What's the age range of the guinea pigs?
+
+Answer :  The age range for Guinea pigs is 1-5
+
+![6](https://user-images.githubusercontent.com/31125760/215928416-f9bb053c-064c-441b-8882-34d0f092f760.PNG)
+
+
+Question : What is the oldest pet?
+
+Answer : Cat Named Bruce Springsteen is oldest with age 24.
+
+![7](https://user-images.githubusercontent.com/31125760/215930297-6edf655d-1f0e-4d02-9040-20c859ab5393.PNG)
+
+
+
+Question : Which are more popular, betta fish or goldfish? How many of each?
+
+Answer : Goldfish are more popular, Goldfish with count 8, and betta fish with count 3
+
+![88](https://user-images.githubusercontent.com/31125760/215933089-c375808d-5e3a-4f8e-9658-598c5762c4bb.PNG)
+
+![8](https://user-images.githubusercontent.com/31125760/215933101-dfe87542-a92d-4d12-85f2-65cd0f871484.PNG)
+
+
+
+Question : What's the most popular everyday name for a cat?
+
+Answer : Kitty with 5 count is most popular among cats.
+
+![9](https://user-images.githubusercontent.com/31125760/215933125-30511068-c93d-406d-9e2a-cf76184feaf8.PNG)
+
+
+Question : What's the most popular full name for a dog?
+
+Answer : Maggie with count of 7 is most Popular among dogs.
+
+![10](https://user-images.githubusercontent.com/31125760/215933144-80a36b38-24c9-4119-9571-ecbb99bfe0aa.PNG)
+
+
 
 *I do not expect everyone to have the exact same answers. Some of these will depend upon decisions you make while cleaning the data. Make sure to note any cleaning decisions you made that could have an impact on your answers.*
 
